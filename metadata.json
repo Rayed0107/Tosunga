@@ -1,0 +1,7 @@
+{
+  "name": "TOSUNGA",
+  "description": "Plateforme solidaire pour les enfants en Afrique. Connectez-vous aux associations locales pour transformer la vie des enfants démunis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
